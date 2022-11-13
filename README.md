@@ -6,12 +6,11 @@ Front-end developer (react)
 
 *   🌍  I'm based in Tehran
 *   ✉️  You can contact me at [reza.8139@gmail.com](mailto:reza.8139@gmail.com)
-*   🚀  I'm currently working on [gajino](http://app.gajino.com)
+*   🚀  I'm currently working on [haal](http://haal.ir)
 *   🧠  I'm learning javascript
-* ### Socials:   
-
+* ### Socials:
 <p  align="left"><a href="https://www.linkedin.com/in/reza-hashemi-487b2566/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.stackoverflow.com/users/9726391/reza-hashemi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32"/></a></p>
- ### Skills: 
+* ### Skills: 
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
