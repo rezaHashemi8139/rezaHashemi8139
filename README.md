@@ -49,5 +49,5 @@ Front-end developer (react)
 
 * ### Support: 
 
-<p><a href="https://ko-fi.com/skmail"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="skmail" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/reza81399"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="skmail" /></a></p><br><br>
                                 
