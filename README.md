@@ -47,7 +47,7 @@ Front-end developer (react)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezaHashemi8139&show_icons=true&theme=tokyonight)](https://github.com/rezaHashemi8139/)&ensp;
   
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaHashemi8139&hide_progress=true&theme=tokyonight)
 
 * ### Support: 
 
