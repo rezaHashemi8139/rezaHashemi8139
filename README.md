@@ -32,10 +32,11 @@ Front-end developer (react)
 
 [![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/9726391?style=for-the-badge&logo=stackoverflow&label=StackOverflow&color=FE7A15)](https://stackoverflow.com/users/9726391/reza-hashemi)
 
-![WakaTime stats](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=rezaHashemi8139&theme=tokyonight)
+![WakaTime stats](https://github-readme-stats.qn3.workers.dev/api/wakatime?username=rezaHashemi8139&theme=tokyonight)
 
-[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rezaHashemi8139&show_icons=true&theme=tokyonight)](https://github.com/rezaHashemi8139/)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rezaHashemi8139&theme=tokyonight)
+[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=rezaHashemi8139&theme=tokyonight)](https://github.com/rezaHashemi8139/)
+
+![Top Langs](https://github-readme-stats.qn3.workers.dev/api/top-langs/?username=rezaHashemi8139&theme=tokyonight)
 
 * ### Support: 
 
